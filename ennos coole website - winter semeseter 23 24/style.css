@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ennos coole website</title>
+
+</head>
+<body>
+    <nav>
+        <ol>
+            <li> <a href="index.html">close door</a></li>
+            <li><a href="projekt1.html">open door</a></li>
+            <li><a href="style.css">backround image</a></li>
+        </ol>
+    </nav>
+    <h1>Shreks toilette</h1>
+    <h2>Tür geschlossen</h2>
+    <img src="img/Download (2).jpg" width="550" alt="error"> 
+    <h3><b>idyllisches holz konstrukt</b> <i> auf grasigen</i> Hügel, doch obacht! Shrek könnte jeden moment erscheinen</h3> 
+   
+    
+</body>
+</html>
+
+
+
+:root{
+  --bg-color: rgb(20,20,20);
+  --color: rgb(240,240,240);
+  --card-color: rgb(23,23,23);
+}
+
+
+body{
+  margin: 0;
+  padding: 0;
+  background-color: var(--bg-color);
+  color: var(--color);
+  font-family: Arial, Helvetica, sans-serif, monospace;
+  
+       background-image: url(
+        https://images.app.goo.gl/3kom6Li6dvuoVL9f8); 
+           
+}
